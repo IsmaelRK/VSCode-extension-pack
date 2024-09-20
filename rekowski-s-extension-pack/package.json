@@ -3,6 +3,7 @@
   "displayName": "rekowski's extension pack",
   "description": "Base pack for a broad range of development",
   "version": "0.0.1",
+  "publisher": "Ismael Rekowski",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -44,5 +45,13 @@
     "vscjava.vscode-java-pack", 
     "vscjava.vscode-java-test", 
     "vscjava.vscode-maven"
-  ]
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsmaelRK/VSCode-extension-pack"
+  },
+
+  "license": "MIT"
+
 }
